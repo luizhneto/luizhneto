@@ -4,16 +4,6 @@
 
 Me chamo Luiz Henrique, tenho 22 anos. Concluí a graduação em Sistemas para Internet. Sou iniciante na programação, mas por aqui continuo meus estudos e sempre me atualizando com as oportunidades que aparecerem.
 
-
-    <a href="https://github.com/luizhneto?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/luizhneto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
