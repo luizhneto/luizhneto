@@ -96,14 +96,14 @@ Me chamo Luiz Henrique, tenho 22 anos. Concluí a graduação em Sistemas para I
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+/> --!>
 <img 
     align="left" 
     alt="Git" 
