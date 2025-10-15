@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Luiz Henrique, tenho 22 anos. Concluí a graduação em Sistemas para Internet. Sou iniciante na programação, mas por aqui continuo meus estudos e sempre me atualizando com as oportunidades que aparecerem.
+Me chamo Luiz Henrique, tenho 22 anos. Concluí a graduação em Sistemas para Internet, mas continuo meus estudos buscando evoluir e por meio dessa rede, compartilho o andamento de meus estudos na área.
 
 ---
 
