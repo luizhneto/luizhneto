@@ -151,7 +151,7 @@ Me chamo Luiz Henrique, tenho 22 anos. Concluí a graduação em Sistemas para I
 
 <br/>
 <br/>
-
+<!--
 📊 Estatísticas
 
 <p>
@@ -162,7 +162,7 @@ Me chamo Luiz Henrique, tenho 22 anos. Concluí a graduação em Sistemas para I
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=luizhneto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+--!>
 <img 
       align="left" 
       alt="GitHub Stats" 
