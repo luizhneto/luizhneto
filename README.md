@@ -152,7 +152,7 @@ Me chamo Luiz Henrique, tenho 22 anos. Concluí a graduação em Sistemas para I
 <br/>
 <br/>
 
-### 📊 Estatísticas
+📊 Estatísticas
 
 <p>
   <img 
